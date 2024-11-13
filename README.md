@@ -56,6 +56,14 @@ Thank you very much to our financial supporters!
 
 <!-- readme: collaborators -start -->
 <table>
+<tr>
+    <td align="center">
+        <a href="https://github.com/juanjotorres90">
+            <img src="https://avatars.githubusercontent.com/u/49198908?v=4" width="100;" alt="juanjotorres90"/>
+            <br />
+            <sub><b>Juanjo Torres</b></sub>
+        </a>
+    </td></tr>
 </table>
 <!-- readme: collaborators -end -->
 
